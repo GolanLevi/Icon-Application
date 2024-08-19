@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FirebaseLoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/wallpaper_body_builder</item>
+        <item name="colorPrimary">@color/cream</item>
+        <item name="colorPrimaryDark">@color/cream</item>
+        <item name="colorAccent">@color/cream</item>
+        <item name="android:textColor">@color/cream</item>
+        <item name="android:textColorHint">@color/cream</item>
+        <item name="android:editTextColor">@color/cream</item>
+    </style>
+
+</resources>
