@@ -14,19 +14,28 @@ Course project for **Android Development** at Afeka College of Engineering.
 
 ---
 
-## 📱 Demo Video
+## 📱 App Preview
+
+<p align="center">
+  <img src="icon_photo1.jpeg" width="30%" />
+  <img src="icon_photo2.jpeg" width="30%" />
+</p>
+
+### Full Demo Video
 
 https://github.com/user-attachments/assets/icon_app.mp4
 
-> If the video doesn't play inline, you can find `icon_app.mp4` in the repository root.
+> If the video doesn't play inline ([click here to view](icon_app.mp4)), you can find `icon_app.mp4` in the repository root.
 
 ---
 
-## 📌 About
+## 📌 Problem & Solution
 
-I built this app as my final project for the Android development course. The concept is a mobile app for the Icon Fitness gym chain - users can log in, browse all branches across Israel, search by name, save favorites, see each gym on a map, and check the real-time load level (how crowded it is).
+I built this app as my final project for the Android development course out of a real need—solving the gym crowding problem in Israel. We all know the frustration of arriving at the gym only to find no available treadmills or waiting half an time for weights.
 
-The project gave me hands-on experience with key Android concepts: working with external APIs (Firebase, Google Maps), building responsive UIs with RecyclerView and Material Design, managing data across screens, and handling permissions.
+This app provides an accessible and smart solution: through the app, any user (logged in via Firebase Auth) can view the exact number of active exercisers in real-time across all 35+ Icon Fitness branches nationwide. This allows users to easily plan their workouts, know in advance which branch is best to visit, and save valuable time.
+
+Beyond solving the crowding problem, the project gave me hands-on experience with complex system engineering: working with external APIs (Firebase, Google Maps), building responsive UIs with RecyclerView and Material Design, securely managing shared data across screens, and handling system permissions.
 
 ### App Flow:
 
