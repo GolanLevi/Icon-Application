@@ -17,12 +17,12 @@ Course project for **Android Development** at Afeka College of Engineering.
 ## 📱 App Preview
 
 <p align="center">
-  <strong>Browsing branches, real-time occupancy, and quick actions (Favorite/Call):</strong><br><br>
+  <strong>Browsing branches, real-time occupancy, phone dialer, favorites, quick map navigation, locating nearby branches, and checking availability:</strong><br><br>
   <img src="icon_photo1.jpeg" width="70%" />
 </p>
 
 <p align="center">
-  <strong>Interactive map to locate nearby branches and check their load:</strong><br><br>
+  <strong>Login screen, mobile verification, and various authentication options:</strong><br><br>
   <img src="icon_photo2.jpeg" width="70%" />
 </p>
 
