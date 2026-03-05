@@ -19,17 +19,20 @@
 ## 📱 הצצה לאפליקציה
 
 <p align="center">
-  <img src="icon_photo1.jpeg" width="30%" />
-  <img src="icon_photo2.jpeg" width="30%" />
+  <strong>צפייה ברשימת הסניפים, נתוני התפוסה בזמן אמת ואפשרויות החיוג והמועדפים:</strong><br><br>
+  <img src="icon_photo1.jpeg" width="70%" />
+</p>
+
+<p align="center">
+  <strong>התמצאות מהירה במפה, איתור סניפים קרובים ובדיקת זמינות:</strong><br><br>
+  <img src="icon_photo2.jpeg" width="70%" />
 </p>
 
 ### סרטון הדגמה מלא
 
-</div>
+[🎬 צפה בסרטון ההדגמה של האפליקציה (לחץ כאן)](icon_app.mp4)
 
-https://github.com/user-attachments/assets/icon_app.mp4
-
-> אם הסרטון לא מתנגן ישירות ([לחץ כאן לצפייה](icon_app.mp4)), הקובץ `icon_app.mp4` נמצא בתיקיית הפרויקט.
+> הפעלת הסרטון תפתח את נגן הווידאו המובנה של GitHub או תוריד את הקובץ.
 
 ---
 

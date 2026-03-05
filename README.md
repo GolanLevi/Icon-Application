@@ -17,15 +17,20 @@ Course project for **Android Development** at Afeka College of Engineering.
 ## 📱 App Preview
 
 <p align="center">
-  <img src="icon_photo1.jpeg" width="30%" />
-  <img src="icon_photo2.jpeg" width="30%" />
+  <strong>Browsing branches, real-time occupancy, and quick actions (Favorite/Call):</strong><br><br>
+  <img src="icon_photo1.jpeg" width="70%" />
+</p>
+
+<p align="center">
+  <strong>Interactive map to locate nearby branches and check their load:</strong><br><br>
+  <img src="icon_photo2.jpeg" width="70%" />
 </p>
 
 ### Full Demo Video
 
-https://github.com/user-attachments/assets/icon_app.mp4
+[🎬 Click here to watch the full demo video](icon_app.mp4)
 
-> If the video doesn't play inline ([click here to view](icon_app.mp4)), you can find `icon_app.mp4` in the repository root.
+> Clicking the link will open GitHub's builtin video player or download the file.
 
 ---
 
